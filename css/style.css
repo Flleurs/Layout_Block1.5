@@ -102,7 +102,7 @@ html {
   }
   .brands-content {
     display: flex;
-    width: 750px;
+    width: 768px;
     margin: 0 auto;
   }
   .swiper {
@@ -157,6 +157,9 @@ html {
   }
   .brand-container::after {
     display: none;
+  }
+  .brands-content {
+    width: 1120px;
   }
   .swiper-wrapper {
     gap: 16px 32px;
