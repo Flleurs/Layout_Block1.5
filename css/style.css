@@ -119,9 +119,6 @@ html {
   .swiper-pagination {
     display: none;
   }
-  .swiper-slide::before {
-    content: "";
-  }
   .brand-container::after {
     display: none;
   }
